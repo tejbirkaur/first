@@ -1,1 +1,4 @@
 hello github git
+He compiled and tested his code and everything is working fine. Now, he can safely add these changes to the repository.
+
+Git add operation adds file to the staging area.
